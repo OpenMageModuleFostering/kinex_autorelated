@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Kinex_AutoRelated</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Display auto-assigned related products on the product view page</summary>
+    <description>System will automatically showcase similar options to every product in their store</description>
+    <notes>Fast work on stores with a huge quantity of products</notes>
+    <authors><author><name>Kinex</name><user>kinextoronto</user><email>kinexmedia48@gmail.com</email></author><author><name>harpreet</name><user>harpreet</user><email>harpreetsinghphp@gmail.com</email></author></authors>
+    <date>2015-10-04</date>
+    <time>08:01:55</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Kinex_AutoRelated.xml" hash="2fccbcfa7de8013ab5fbf1f602a92b9f"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

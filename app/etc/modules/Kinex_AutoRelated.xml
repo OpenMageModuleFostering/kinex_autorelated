@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Kinex_AutoRelated>
+      <active>true</active>
+      <codePool>community</codePool>
+      <version>1.0.1</version>
+    </Kinex_AutoRelated>
+  </modules>
+</config>
