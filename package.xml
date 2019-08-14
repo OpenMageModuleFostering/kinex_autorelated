@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>Kinex_AutoRelated</name>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
     <channel>community</channel>
@@ -11,8 +11,8 @@
     <notes>Fast work on stores with a huge quantity of products</notes>
     <authors><author><name>Kinex</name><user>kinextoronto</user><email>kinexmedia48@gmail.com</email></author><author><name>harpreet</name><user>harpreet</user><email>harpreetsinghphp@gmail.com</email></author></authors>
     <date>2015-10-06</date>
-    <time>14:58:41</time>
-    <contents><target name="magecommunity"><dir name="Kinex"><file name="AutoRelated" hash=""/></dir></target><target name="mageetc"><dir name="modules"><file name="Kinex_AutoRelated.xml" hash="70ff08e2bd04c4b799b6875448813f3c"/></dir></target></contents>
+    <time>15:06:38</time>
+    <contents><target name="magecommunity"><dir name="Kinex"><dir name="AutoRelated"><dir name="Block"><file name="Related.php" hash="3318c1997981258fcf4376faa69c20aa"/></dir><dir name="Helper"><file name="Data.php" hash="cb207ce44709289d5526ac22908d7b5b"/></dir><dir name="Model"><file name="Collection.php" hash="9118fb8854044f2e10b9db437bddcc39"/></dir><dir name="etc"><file name="config.xml" hash="6e1607e8ed8dcc733db50e38214e12a6"/><file name="system.xml" hash="7c3e6aff64a68b06783384d76c6012d9"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Kinex_AutoRelated.xml" hash="3eae4925bf06f06cc9a2ec79f12c3e54"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
