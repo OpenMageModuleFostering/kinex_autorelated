@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Kinex_AutoRelated",
+    "name": "OpenMageModuleFostering\/Kinex_AutoRelated",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Display auto-assigned related products on the product view page",
     "authors": [
-    {
-        "name": "Kinex",
-        "email": "kinexmedia48@gmail.com"
-    }
-],
+        {
+            "name": "Kinex",
+            "email": "kinexmedia48@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
