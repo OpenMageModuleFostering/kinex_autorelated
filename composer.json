@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Kinex_AutoRelated",
+    "name": "openmage-module-fostering\/kinex_autorelated",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Display auto-assigned related products on the product view page",
     "authors": [
